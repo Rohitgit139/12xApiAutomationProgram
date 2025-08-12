@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/rohit/IdeaProjects/12xApiAutomationProgram">
+        <classes>
+            <class name="com.testingacademy.ex_04_Restassured_http_methods.Post.Api_testing_post_lab011">
+            </class>
+        </classes>
+    </test>
+</suite>
